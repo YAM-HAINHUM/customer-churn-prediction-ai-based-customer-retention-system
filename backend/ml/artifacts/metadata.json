@@ -1,0 +1,47 @@
+{
+  "model_name": "Logistic Regression",
+  "model_type": "LogisticRegression",
+  "feature_count": 40,
+  "test_metrics": {
+    "model": "Logistic Regression",
+    "accuracy": 0.7381,
+    "precision": 0.6037,
+    "recall": 0.7798,
+    "f1_score": 0.6805,
+    "roc_auc": 0.8221
+  },
+  "all_results": [
+    {
+      "model": "Logistic Regression",
+      "accuracy": 0.7381,
+      "precision": 0.6037,
+      "recall": 0.7798,
+      "f1_score": 0.6805,
+      "roc_auc": 0.8221
+    },
+    {
+      "model": "Decision Tree",
+      "accuracy": 0.6494,
+      "precision": 0.5099,
+      "recall": 0.5099,
+      "f1_score": 0.5099,
+      "roc_auc": 0.6185
+    },
+    {
+      "model": "Random Forest",
+      "accuracy": 0.7374,
+      "precision": 0.6482,
+      "recall": 0.5813,
+      "f1_score": 0.613,
+      "roc_auc": 0.7962
+    },
+    {
+      "model": "SVM",
+      "accuracy": 0.7303,
+      "precision": 0.5948,
+      "recall": 0.7718,
+      "f1_score": 0.6718,
+      "roc_auc": 0.8089
+    }
+  ]
+}
