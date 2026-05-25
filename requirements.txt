@@ -1,9 +1,10 @@
+fastapi
+uvicorn
+pydantic-settings
 streamlit
 pandas
 numpy
 scikit-learn
+joblib
 matplotlib
 seaborn
-joblib
-fastapi
-uvicorn
